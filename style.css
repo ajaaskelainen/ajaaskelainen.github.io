@@ -1,0 +1,25 @@
+body {
+  background: darkgray;
+}
+h1 { color: mediumvioletred;
+  font-size: 34px; text-align: center; font-style: italic; font-weight: bold}
+
+ol {
+  font-size: 18px; color: black
+}
+
+h3 { color:mediumvioletred; font-size: 24px; text-align: center; text-decoration-line: underline}
+h4 { color:mediumvioletred; text-align: center
+}
+img {
+  float: right;    margin: 10px;
+  border-color: mediumvioletred;
+  border-width: 2px;
+  border-style:solid;
+  border-radius: 20px;
+}
+h6 { color: lightgray; text-align: right;
+}
+
+h2 { color: mediumvioletred; text-align: center;}
+p {   font-size: 20px; font-weight: bold}
